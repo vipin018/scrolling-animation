@@ -14,13 +14,13 @@ body {
     /* vh is viewport height and vw is viewport width */
     height: 100vh; 
     width: 100vw;
-    background-color: #bcbcbc;
+    background-color: #E6DAD9;
 }
 
 #page2 {
     height: 100vh;
     width: 100vw;
-    background-color: #979797;
+    background-color: #235490;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +29,7 @@ body {
 #page3 {
     height: 100vh;
     width: 100vw;
-    background-color: #6f6f6f;
+    background-color: #393745;
 }
 
 #page2 img {
