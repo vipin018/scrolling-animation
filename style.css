@@ -21,10 +21,19 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: #979797;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #page3 {
     height: 100vh;
     width: 100vw;
     background-color: #6f6f6f;
+}
+
+#page2 img {
+    height: 90vh;
+    object-fit: cover;
+    object-position: center; /* this is to center the image */
 }
